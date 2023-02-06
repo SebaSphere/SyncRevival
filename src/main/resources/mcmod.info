@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "syncrevival",
+    "name": "SyncRevival",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Sebastian"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
