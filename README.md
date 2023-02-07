@@ -19,6 +19,7 @@ At this time, there is no configuration file but you're welcome to build the mod
 The revival item can be changed by modifying the `revivalItem` variable.
 
 # Known bugs
-- When changing back into survival from the dead, your hand will have appeared to disappear. Shift to fix this
-- When initially teleporting, there may be some rubberbanding
+- When changing back into survival from the dead, your hand will have appeared to disappear. Shift to fix this.
+- When initially teleporting, there may be some rubberbanding.
+- Occasionally, a player may die from fall damage when respawning.
 - If multiple players are nearby in spectator, one golden apple can revive multiple players. Not sure if this should be a "feature" yet.
